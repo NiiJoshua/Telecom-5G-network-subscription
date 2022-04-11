@@ -6,4 +6,5 @@ The repo contains the following files:
 * EDA (a jupyter notebook file) which contains the Exploratory data analysis
 *  ML (a jupyter notebook file) which contains the algorithms on the data) 
 *  a data dictionary and the assignment report.  
+*  Requirements .txt file
 *  A bonus file is NB_template contains a step by step approach to working around a machine learning problem. 
